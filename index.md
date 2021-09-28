@@ -1,5 +1,7 @@
 # Welcome to the **DiddiOS** website!
 
+![DiddiOS logo](https://DiddiOS.github.io/images/DiddiOS-web.png)
+
 **DiddiOS** is an in-development operative system created by [Diego Ramirez](https://DiddiLeija.github.io), which is intended
 to be developer-friendly, safe, and easy to set up.
 
