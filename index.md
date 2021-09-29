@@ -17,3 +17,7 @@ Our goal is create an OS friendlier with developers, safer, and easier to use.
 ## Installing DiddiOS
 
 _NOTE: This OS is on development. Maybe you won't be able to find releases._
+
+## Visit us on [GitHub](https://github.com)
+
+See the GitHub organization of DiddiOS [here](https://github.com/DiddiOS)
