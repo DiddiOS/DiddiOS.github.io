@@ -20,4 +20,4 @@ _NOTE: This OS is on development. Maybe you won't be able to find releases._
 
 ## Visit us on [GitHub](https://github.com)
 
-See the GitHub organization of DiddiOS [here](https://github.com/DiddiOS)
+See the GitHub organization of DiddiOS [here](https://github.com/DiddiOS).
