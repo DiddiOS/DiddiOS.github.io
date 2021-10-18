@@ -20,4 +20,5 @@ Our goal is create an OS friendlier with developers, safer, and easier to use.
 
 ## Visit us on [GitHub](https://github.com)
 
-See the GitHub organization of DiddiOS [here](https://github.com/DiddiOS).
+See the GitHub organization of DiddiOS [here](https://github.com/DiddiOS). Feel free to contact us
+if you want to help :)
